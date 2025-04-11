@@ -23,6 +23,7 @@ export default function Home() {
       cargarNotas()
     }
   }
+  //hola
 
   return (
     <main className="p-4 max-w-md mx-auto">
